@@ -1,0 +1,37 @@
+.d-flex{
+  padding:20%;
+}
+.navbar-brand ,.nav-link{
+  color:whitesmoke;
+}
+.navbar-brand:hover{
+  color:white;
+}
+.nav-link:hover{
+  color:blue;
+}
+nav{
+  background-color: #000000;
+}
+#home{
+  background-color: aqua;
+  width: 100%;
+  height: 100vh;
+}
+#about{
+  background-color: blueviolet;
+  color: azure;
+  width: 100%;
+  height: 100vh;
+}
+#career{
+  background-color: aqua ;
+  color: azure;
+  width: 100%;
+  height: 100vh;
+}
+#contact{
+  background: blueviolet;
+  width: 100%;
+  height: 100vh;
+}
